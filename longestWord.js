@@ -21,8 +21,7 @@ Your response should be a number.*/
 //     }
 // }
 
-// adding comments to demonstrate my logic process
-
+// add comments to demonstrate logic 
 // this function accepts a string and gives you the length of the longest word
 
 // TODO i can use the string.length() method to find the length of every word within the string
